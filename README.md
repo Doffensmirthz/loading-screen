@@ -29,3 +29,7 @@ Puedes ver el loader en acción directamente en tu navegador con Three.js y Twee
 ## Cómo usar
 
 Clonar el repositorio o descargar el código y ejecutarlo con el interprete que sea.
+
+## Video con autoría
+[loading screen.mkv](loading%20screen.mkv)
+
